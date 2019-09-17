@@ -1,0 +1,29 @@
+language: "en"
+
+pipeline: 
+  - name: "WhitespaceTokenizer"
+    case_sensitive: false
+    intent_tokenization_flag: true
+    intent_split_symbol: "+"
+  - name: "RegexFeaturizer"
+  - name: "CRFEntityExtractor"
+  - name: "EntitySynonymMapper"
+  - name: "CountVectorsFeaturizer"
+  - name: "EmbeddingIntentClassifier"
+    
+policies:
+  - name: "KerasPolicy"
+    epochs: 300
+    featurizer:
+    - name: MaxHistoryTrackerFeaturizer
+      max_history: 5
+      state_featurizer:
+        - name: BinarySingleStateFeaturizer
+  - name: "MemoizationPolicy"
+    max_history: 5
+  - name: "MappingPolicy"
+  - name: "FallbackPolicy"
+    nlu_threshold: 0.4
+    core_threshold: 0.3
+    fallback_action_name: "action_default_fallback"
+  - name: "FormPolicy"

@@ -1,0 +1,92 @@
+intents:
+  - answer_contact_details
+  - reports_yes
+  - reports_no
+  - answer_suffer_for
+  - answer_time
+  - greetings
+  - treatment
+  - bye
+  - ask_cost
+  - ask_rationale
+  - comment_rationale
+
+slots:
+  treatment_name:
+    type: text
+  relation:
+    type: text
+  treatment_type:
+    type: categorical
+    values:
+    - modern
+    - ayurveda
+
+entities:
+  - treatment_name
+  - treatment_type
+  - relation
+
+actions:
+- action_custom
+- utter_greetings
+- utter_what_treatment
+- utter_howlong_suffer
+- utter_ask_contact_details1
+- utter_ask_reports_availability
+- utter_ask_reports
+- utter_thank_for_reports
+- utter_ask_contact_details
+- utter_thanks_for_contact_details
+- utter_you_receive_call
+- utter_time
+- utter_bye
+- utter_default
+- utter_message
+- utter_treatment_not_available
+- utter_treatment_available
+- utter_cost_not_available
+- utter_reason_for_nocost
+
+templates:
+  utter_greetings:
+  - text: "Hi , I am AVA. Welcome to INDHEAL."
+  utter_what_treatment:
+  - text: "What treatment are you looking for?"
+  utter_treatment_not_available:
+  - text: "Sorry, this treatment isn't available with us"
+  utter_treatment_available:
+  - text: "The {treatment_name} is available"
+  utter_cost:
+  - text: "the approximate cost would be:"
+  utter_cost_not_available:
+  - text: "the cost isnt available for this particular treatment"
+  utter_reason_for_nocost:
+  - text: "This can't be disclosed"
+  utter_howlong_suffer:
+  - text: "Could you please tell me how long the problem has persisted?"
+  utter_ask_reports_availability:
+  - text: "Okay,are there any medical reports available with you?"
+  utter_ask_reports:
+  - text: "Please share the reports with us.
+          Doctors would need medical reports to provide a treatment plan with treatment duration and cost.
+          You can share to Whatsapp:7676762562 or Email:hello@indheal.com"
+  utter_ask_contact_details:
+  - text: "Could you please share your contact details?"
+  utter_thanks_for_contact_details:
+  - text: "Thanks for sharing your contact details with us."
+  utter_thank_for_reports:
+  - text: "Thank you for sharing the reports."
+  utter_time:
+  - text: "When would be a comfortable time to contact you?"
+  utter_you_receive_call:
+  - text: "You will receive a call from us. Thank you"
+  utter_bye:
+  - text: "Thank you for contacting INDHEAL! We will get in touch soon."
+  utter_default:
+  - text: "Sorry, could u please rephrase that..."
+  utter_message:
+  - text: "Successful actions connection!"
+  utter_ask_contact_details1:
+  - text: "Okay, could please share your contact details?"
+
