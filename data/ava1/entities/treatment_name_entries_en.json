@@ -1,0 +1,903 @@
+[
+  {
+    "value": "ACl surgery",
+    "synonyms": [
+      "ACl surgery",
+      "acl"
+    ]
+  },
+  {
+    "value": "ADHD Ayurveda",
+    "synonyms": [
+      "ADHD Ayurveda"
+    ]
+  },
+  {
+    "value": "Abdominoplasty",
+    "synonyms": [
+      "Abdominoplasty"
+    ]
+  },
+  {
+    "value": "Acoustic Neuroma",
+    "synonyms": [
+      "Acoustic Neuroma"
+    ]
+  },
+  {
+    "value": "Acute myeloid leukemia",
+    "synonyms": [
+      "Acute myeloid leukemia"
+    ]
+  },
+  {
+    "value": "Adrenalectomy",
+    "synonyms": [
+      "Adrenalectomy"
+    ]
+  },
+  {
+    "value": "Alcohol Deaddiction Ayurveda",
+    "synonyms": [
+      "Alcohol Deaddiction Ayurveda"
+    ]
+  },
+  {
+    "value": "Allergies Ayurveda",
+    "synonyms": [
+      "Allergies Ayurveda"
+    ]
+  },
+  {
+    "value": "Alopecia Ayurveda",
+    "synonyms": [
+      "Alopecia Ayurveda"
+    ]
+  },
+  {
+    "value": "Aneurysm Repair",
+    "synonyms": [
+      "Aneurysm Repair"
+    ]
+  },
+  {
+    "value": "Aplastic Anemia",
+    "synonyms": [
+      "Aplastic Anemia"
+    ]
+  },
+  {
+    "value": "Arrhythmia",
+    "synonyms": [
+      "Arrhythmia"
+    ]
+  },
+  {
+    "value": "Arthroscopic Joint Surgeries",
+    "synonyms": [
+      "Arthroscopic Joint Surgeries"
+    ]
+  },
+  {
+    "value": "Astigmatism",
+    "synonyms": [
+      "Astigmatism"
+    ]
+  },
+  {
+    "value": "Astigmatism Ayurveda",
+    "synonyms": [
+      "Astigmatism Ayurveda"
+    ]
+  },
+  {
+    "value": "Autism Ayurveda",
+    "synonyms": [
+      "Autism Ayurveda"
+    ]
+  },
+  {
+    "value": "Ayurvedic Rejuvenation",
+    "synonyms": [
+      "Ayurvedic Rejuvenation"
+    ]
+  },
+  {
+    "value": "Backpain Ayurveda",
+    "synonyms": [
+      "Backpain Ayurveda"
+    ]
+  },
+  {
+    "value": "Balloon Valvotomy",
+    "synonyms": [
+      "Balloon Valvotomy"
+    ]
+  },
+  {
+    "value": "Bipolar Disorder Ayurveda",
+    "synonyms": [
+      "Bipolar Disorder Ayurveda"
+    ]
+  },
+  {
+    "value": "Bladder Cancer",
+    "synonyms": [
+      "Bladder Cancer"
+    ]
+  },
+  {
+    "value": "Bladder Neck Incision",
+    "synonyms": [
+      "Bladder Neck Incision"
+    ]
+  },
+  {
+    "value": "Bone Cancer",
+    "synonyms": [
+      "Bone Cancer"
+    ]
+  },
+  {
+    "value": "Bone Marrow transplantation",
+    "synonyms": [
+      "Bone Marrow transplantation"
+    ]
+  },
+  {
+    "value": "Brain Tumor",
+    "synonyms": [
+      "Brain Tumor"
+    ]
+  },
+  {
+    "value": "Breast Cancer",
+    "synonyms": [
+      "Breast Cancer"
+    ]
+  },
+  {
+    "value": "Breast Enlargement",
+    "synonyms": [
+      "Breast Enlargement"
+    ]
+  },
+  {
+    "value": "Breast Reduction",
+    "synonyms": [
+      "Breast Reduction"
+    ]
+  },
+  {
+    "value": "Cancer Rehabilitation Program Ayurveda",
+    "synonyms": [
+      "Cancer Rehabilitation Program Ayurveda"
+    ]
+  },
+  {
+    "value": "Carpal Tunnel Release",
+    "synonyms": [
+      "Carpal Tunnel Release"
+    ]
+  },
+  {
+    "value": "Cerebral Palsy Ayurveda",
+    "synonyms": [
+      "Cerebral Palsy Ayurveda"
+    ]
+  },
+  {
+    "value": "Cervical Cancer",
+    "synonyms": [
+      "Cervical Cancer"
+    ]
+  },
+  {
+    "value": "Cervical Spondylosis Ayurveda",
+    "synonyms": [
+      "Cervical Spondylosis Ayurveda"
+    ]
+  },
+  {
+    "value": "Cleft and Craniofacial Surgery",
+    "synonyms": [
+      "Cleft and Craniofacial Surgery"
+    ]
+  },
+  {
+    "value": "Cochlear Implant",
+    "synonyms": [
+      "Cochlear Implant"
+    ]
+  },
+  {
+    "value": "Colorectal Surgery",
+    "synonyms": [
+      "Colorectal Surgery"
+    ]
+  },
+  {
+    "value": "Corneo Disorders",
+    "synonyms": [
+      "Corneo Disorders"
+    ]
+  },
+  {
+    "value": "Coronary Angiography",
+    "synonyms": [
+      "Coronary Angiography"
+    ]
+  },
+  {
+    "value": "Coronary Angioplasty",
+    "synonyms": [
+      "Coronary Angioplasty"
+    ]
+  },
+  {
+    "value": "Crowns and Bridges",
+    "synonyms": [
+      "Crowns and Bridges"
+    ]
+  },
+  {
+    "value": "Dementia Ayurveda",
+    "synonyms": [
+      "Dementia Ayurveda"
+    ]
+  },
+  {
+    "value": "Dental Implants",
+    "synonyms": [
+      "Dental Implants"
+    ]
+  },
+  {
+    "value": "Depression Ayurveda",
+    "synonyms": [
+      "Depression Ayurveda"
+    ]
+  },
+  {
+    "value": "Diabetic Retinopathy",
+    "synonyms": [
+      "Diabetic Retinopathy"
+    ]
+  },
+  {
+    "value": "Diabetic Retinopathy Ayurveda",
+    "synonyms": [
+      "Diabetic Retinopathy Ayurveda"
+    ]
+  },
+  {
+    "value": "Eczema Ayurveda",
+    "synonyms": [
+      "Eczema Ayurveda"
+    ]
+  },
+  {
+    "value": "Elbow Replacement",
+    "synonyms": [
+      "Elbow Replacement"
+    ]
+  },
+  {
+    "value": "Enlarged Prostate",
+    "synonyms": [
+      "Enlarged Prostate"
+    ]
+  },
+  {
+    "value": "Epilepsy Surgery",
+    "synonyms": [
+      "Epilepsy Surgery"
+    ]
+  },
+  {
+    "value": "Eyelid Surgery",
+    "synonyms": [
+      "Eyelid Surgery"
+    ]
+  },
+  {
+    "value": "Face Lift",
+    "synonyms": [
+      "Face Lift"
+    ]
+  },
+  {
+    "value": "Facial Paralysis Ayurveda",
+    "synonyms": [
+      "Facial Paralysis Ayurveda"
+    ]
+  },
+  {
+    "value": "Fibromyalgia",
+    "synonyms": [
+      "Fibromyalgia"
+    ]
+  },
+  {
+    "value": "Frozen Shoulder Ayurveda",
+    "synonyms": [
+      "Frozen Shoulder Ayurveda"
+    ]
+  },
+  {
+    "value": "Full Mouth Rehabilitation",
+    "synonyms": [
+      "Full Mouth Rehabilitation"
+    ]
+  },
+  {
+    "value": "GERD Ayurveda",
+    "synonyms": [
+      "GERD Ayurveda"
+    ]
+  },
+  {
+    "value": "Gastric Band",
+    "synonyms": [
+      "Gastric Band"
+    ]
+  },
+  {
+    "value": "Gastric Bypass Surgery",
+    "synonyms": [
+      "Gastric Bypass Surgery"
+    ]
+  },
+  {
+    "value": "Gastric Sleeve",
+    "synonyms": [
+      "Gastric Sleeve"
+    ]
+  },
+  {
+    "value": "Gastritis Ayurveda",
+    "synonyms": [
+      "Gastritis Ayurveda"
+    ]
+  },
+  {
+    "value": "General Neurosurgeries",
+    "synonyms": [
+      "General Neurosurgeries"
+    ]
+  },
+  {
+    "value": "General Urology",
+    "synonyms": [
+      "General Urology"
+    ]
+  },
+  {
+    "value": "Glaucoma",
+    "synonyms": [
+      "Glaucoma"
+    ]
+  },
+  {
+    "value": "Glaucoma Ayurveda",
+    "synonyms": [
+      "Glaucoma Ayurveda"
+    ]
+  },
+  {
+    "value": "Gout Ayurveda",
+    "synonyms": [
+      "Gout Ayurveda"
+    ]
+  },
+  {
+    "value": "Hand Surgery",
+    "synonyms": [
+      "Hand Surgery"
+    ]
+  },
+  {
+    "value": "Head and Neck Cancer",
+    "synonyms": [
+      "Head and Neck Cancer"
+    ]
+  },
+  {
+    "value": "Health Checkup",
+    "synonyms": [
+      "Health Checkup"
+    ]
+  },
+  {
+    "value": "Heart Bypass Surgery",
+    "synonyms": [
+      "Heart Bypass Surgery"
+    ]
+  },
+  {
+    "value": "Heart Transplant",
+    "synonyms": [
+      "Heart Transplant"
+    ]
+  },
+  {
+    "value": "Hernia Surgery",
+    "synonyms": [
+      "Hernia Surgery"
+    ]
+  },
+  {
+    "value": "Hip Replacemnet",
+    "synonyms": [
+      "Hip Replacemnet"
+    ]
+  },
+  {
+    "value": "Hydrocephalus",
+    "synonyms": [
+      "Hydrocephalus"
+    ]
+  },
+  {
+    "value": "Hypertension Ayurveda",
+    "synonyms": [
+      "Hypertension Ayurveda"
+    ]
+  },
+  {
+    "value": "Infertility",
+    "synonyms": [
+      "Infertility"
+    ]
+  },
+  {
+    "value": "Infertility Ayurveda",
+    "synonyms": [
+      "Infertility Ayurveda"
+    ]
+  },
+  {
+    "value": "Inflammatory Bowel Disease Ayurveda",
+    "synonyms": [
+      "Inflammatory Bowel Disease Ayurveda"
+    ]
+  },
+  {
+    "value": "Irritable Bowel Syndrome Ayurveda",
+    "synonyms": [
+      "Irritable Bowel Syndrome Ayurveda"
+    ]
+  },
+  {
+    "value": "Keratoconus Ayuveda",
+    "synonyms": [
+      "Keratoconus Ayuveda"
+    ]
+  },
+  {
+    "value": "Kidney Cancer",
+    "synonyms": [
+      "Kidney Cancer"
+    ]
+  },
+  {
+    "value": "Kidney Stone Removal",
+    "synonyms": [
+      "Kidney Stone Removal"
+    ]
+  },
+  {
+    "value": "Kidney Transplant",
+    "synonyms": [
+      "Kidney Transplant"
+    ]
+  },
+  {
+    "value": "Knee Replacement",
+    "synonyms": [
+      "Knee Replacement"
+    ]
+  },
+  {
+    "value": "Kyphoplasty",
+    "synonyms": [
+      "Kyphoplasty"
+    ]
+  },
+  {
+    "value": "Laminectomy",
+    "synonyms": [
+      "Laminectomy"
+    ]
+  },
+  {
+    "value": "Lap Cholecystectomy",
+    "synonyms": [
+      "Lap Cholecystectomy"
+    ]
+  },
+  {
+    "value": "Laparoscopic Anterior Resection",
+    "synonyms": [
+      "Laparoscopic Anterior Resection"
+    ]
+  },
+  {
+    "value": "Laparoscopic Radical Cystectomy",
+    "synonyms": [
+      "Laparoscopic Radical Cystectomy"
+    ]
+  },
+  {
+    "value": "Laparoscopics Fundoplication",
+    "synonyms": [
+      "Laparoscopics Fundoplication"
+    ]
+  },
+  {
+    "value": "Leukemia",
+    "synonyms": [
+      "Leukemia"
+    ]
+  },
+  {
+    "value": "Liposuction",
+    "synonyms": [
+      "Liposuction"
+    ]
+  },
+  {
+    "value": "Liver Transplant",
+    "synonyms": [
+      "Liver Transplant"
+    ]
+  },
+  {
+    "value": "Lobectomy",
+    "synonyms": [
+      "Lobectomy"
+    ]
+  },
+  {
+    "value": "Lumbar Spondylosis Ayurveda",
+    "synonyms": [
+      "Lumbar Spondylosis Ayurveda"
+    ]
+  },
+  {
+    "value": "Lung Cancer",
+    "synonyms": [
+      "Lung Cancer"
+    ]
+  },
+  {
+    "value": "Lymphoma",
+    "synonyms": [
+      "Lymphoma"
+    ]
+  },
+  {
+    "value": "Macular Degeneration",
+    "synonyms": [
+      "Macular Degeneration"
+    ]
+  },
+  {
+    "value": "Macular Degeneration Ayurveda",
+    "synonyms": [
+      "Macular Degeneration Ayurveda"
+    ]
+  },
+  {
+    "value": "Maxillofacial Surgery",
+    "synonyms": [
+      "Maxillofacial Surgery"
+    ]
+  },
+  {
+    "value": "Multiple Myeloma",
+    "synonyms": [
+      "Multiple Myeloma"
+    ]
+  },
+  {
+    "value": "Multiple Sclerosis Ayurveda",
+    "synonyms": [
+      "Multiple Sclerosis Ayurveda"
+    ]
+  },
+  {
+    "value": "Multiple System Atrophy",
+    "synonyms": [
+      "Multiple System Atrophy"
+    ]
+  },
+  {
+    "value": "Myasthenia gravis Ayurveda",
+    "synonyms": [
+      "Myasthenia gravis Ayurveda"
+    ]
+  },
+  {
+    "value": "Myelodyspalstic Syndrome",
+    "synonyms": [
+      "Myelodyspalstic Syndrome"
+    ]
+  },
+  {
+    "value": "Myopia",
+    "synonyms": [
+      "Myopia"
+    ]
+  },
+  {
+    "value": "Myopia Ayurveda",
+    "synonyms": [
+      "Myopia Ayurveda"
+    ]
+  },
+  {
+    "value": "Obesity Ayurveda",
+    "synonyms": [
+      "Obesity Ayurveda"
+    ]
+  },
+  {
+    "value": "Oral Cancer",
+    "synonyms": [
+      "Oral Cancer"
+    ]
+  },
+  {
+    "value": "Orthognathic Surgery",
+    "synonyms": [
+      "Orthognathic Surgery"
+    ]
+  },
+  {
+    "value": "Osteoarthritis Ayurveda",
+    "synonyms": [
+      "Osteoarthritis Ayurveda"
+    ]
+  },
+  {
+    "value": "Osteoporosis Ayurveda",
+    "synonyms": [
+      "Osteoporosis Ayurveda"
+    ]
+  },
+  {
+    "value": "Ovarian Cancer",
+    "synonyms": [
+      "Ovarian Cancer"
+    ]
+  },
+  {
+    "value": "Pacemaker implantation",
+    "synonyms": [
+      "Pacemaker implantation"
+    ]
+  },
+  {
+    "value": "Pancreatic Cancer",
+    "synonyms": [
+      "Pancreatic Cancer"
+    ]
+  },
+  {
+    "value": "Parkinsons Surgery",
+    "synonyms": [
+      "Parkinsons Surgery"
+    ]
+  },
+  {
+    "value": "Parkinsons disease ayurveda",
+    "synonyms": [
+      "Parkinsons disease ayurveda"
+    ]
+  },
+  {
+    "value": "Pediatric Cardiac Surgeries",
+    "synonyms": [
+      "Pediatric Cardiac Surgeries"
+    ]
+  },
+  {
+    "value": "Prostate Cancer",
+    "synonyms": [
+      "Prostate Cancer"
+    ]
+  },
+  {
+    "value": "Prostratectomy",
+    "synonyms": [
+      "Prostratectomy"
+    ]
+  },
+  {
+    "value": "Psoriasis Ayurveda",
+    "synonyms": [
+      "psoriasis ayurveda"
+    ]
+  },
+  {
+    "value": "Retinal Degeneration Ayurveda",
+    "synonyms": [
+      "Retinal Degeneration Ayurveda"
+    ]
+  },
+  {
+    "value": "Retinal Detachment",
+    "synonyms": [
+      "Retinal Detachment"
+    ]
+  },
+  {
+    "value": "Retinal Detachment Ayurveda",
+    "synonyms": [
+      "Retinal Detachment Ayurveda"
+    ]
+  },
+  {
+    "value": "Retinitis Pigmentosa Ayurveda",
+    "synonyms": [
+      "Retinitis Pigmentosa Ayurveda"
+    ]
+  },
+  {
+    "value": "Rheumatiod Arthritis Ayurveda",
+    "synonyms": [
+      "Rheumatiod Arthritis Ayurveda"
+    ]
+  },
+  {
+    "value": "Rhinoplasty",
+    "synonyms": [
+      "Rhinoplasty"
+    ]
+  },
+  {
+    "value": "Root Canal Treatement",
+    "synonyms": [
+      "Root Canal Treatement"
+    ]
+  },
+  {
+    "value": "Sciatica Ayurveda",
+    "synonyms": [
+      "Sciatica Ayurveda"
+    ]
+  },
+  {
+    "value": "Scoliosis",
+    "synonyms": [
+      "Scoliosis"
+    ]
+  },
+  {
+    "value": "Shoulder Replacemnet",
+    "synonyms": [
+      "Shoulder Replacemnet"
+    ]
+  },
+  {
+    "value": "Sickle cell anemia",
+    "synonyms": [
+      "Sickle cell anemia"
+    ]
+  },
+  {
+    "value": "Skin Cancer",
+    "synonyms": [
+      "Skin Cancer"
+    ]
+  },
+  {
+    "value": "Skull Base Surgery",
+    "synonyms": [
+      "Skull Base Surgery"
+    ]
+  },
+  {
+    "value": "Slip Disc",
+    "synonyms": [
+      "Slip Disc"
+    ]
+  },
+  {
+    "value": "Slip Disc Ayurveda",
+    "synonyms": [
+      "Slip Disc Ayurveda"
+    ]
+  },
+  {
+    "value": "Spinal Fusion Surgery",
+    "synonyms": [
+      "Spinal Fusion Surgery"
+    ]
+  },
+  {
+    "value": "Spinal Stenosis Ayurveda",
+    "synonyms": [
+      "Spinal Stenosis Ayurveda"
+    ]
+  },
+  {
+    "value": "Spinal Tumors",
+    "synonyms": [
+      "Spinal Tumors"
+    ]
+  },
+  {
+    "value": "Spondylosis",
+    "synonyms": [
+      "Spondylosis"
+    ]
+  },
+  {
+    "value": "Squint",
+    "synonyms": [
+      "Squint"
+    ]
+  },
+  {
+    "value": "Stomach Cancer",
+    "synonyms": [
+      "Stomach Cancer"
+    ]
+  },
+  {
+    "value": "Stroke Rehabilitation Ayurveda",
+    "synonyms": [
+      "Stroke Rehabilitation Ayurveda"
+    ]
+  },
+  {
+    "value": "Thalassemia",
+    "synonyms": [
+      "Thalassemia"
+    ]
+  },
+  {
+    "value": "Tooth Jewellery",
+    "synonyms": [
+      "Tooth Jewellery"
+    ]
+  },
+  {
+    "value": "Transverse Myelitis Ayurveda",
+    "synonyms": [
+      "Transverse Myelitis Ayurveda"
+    ]
+  },
+  {
+    "value": "Urethral Cancer",
+    "synonyms": [
+      "Urethral Cancer"
+    ]
+  },
+  {
+    "value": "Valve Replacemnet Surgery",
+    "synonyms": [
+      "Valve Replacemnet Surgery"
+    ]
+  },
+  {
+    "value": "Vascular Surgery",
+    "synonyms": [
+      "Vascular Surgery"
+    ]
+  },
+  {
+    "value": "Zygomatic Implant",
+    "synonyms": [
+      "Zygomatic Implant"
+    ]
+  },
+  {
+    "value": "colorectal Cancer",
+    "synonyms": [
+      "colorectal Cancer"
+    ]
+  }
+]

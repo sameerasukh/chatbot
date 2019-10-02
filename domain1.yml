@@ -1,0 +1,70 @@
+intents:
+  - answer_contact_details
+  - answer_reports
+  - answer_suffer_for
+  - answer_time
+  - greetings
+  - treatment
+  - bye
+  - ask_cost
+
+slots:
+  treatment_name:
+    type: text
+  relation:
+    type: text
+  treatment_type:
+    type: categorical
+    values:
+    - modern
+    - ayurveda
+
+entities:
+  - treatment_name
+  - treatment_type
+  - relation
+
+actions:
+- action_custom
+- utter_treatment_not_available
+- utter_greetings
+- utter_what_treatment
+- utter_howlong_suffer
+- utter_ask_reports
+- utter_thank_for_reports
+- utter_ask_contact_details
+- utter_thanks_for_contact_details
+- utter_you_receive_call
+- utter_time
+- utter_bye
+- utter_default
+- utter_message
+
+templates:
+  utter_greetings:
+  - text: "Hi , I am AVA.Welcome to INDHEAL."
+  utter_what_treatment:
+  - text: "What treatment are you looking for?"
+  utter_treatment_not_available:
+  - text: "sorry, this treatment isn't available"
+  utter_howlong_suffer:
+  - text: "could you please tell me how long the problem has persisted?"
+  utter_ask_reports:
+  - text: "Okay. Do you have the following reports?"
+  utter_ask_contact_details:
+  - text: "Could you please share your contact details?"
+  utter_thanks_for_contact_details:
+  - text: "Thanks for sharing your contact details."
+  utter_thank_for_reports:
+  - text: "Thank you for sharing the reports."
+  utter_time:
+  - text: "Thank you for sharing your details. When would be a comfortable time to contact you?"
+  utter_you_receive_call:
+  - text: "you will receive a call from us. Thank you"
+  utter_bye:
+  - text: "Thank you for contacting INDHEAL! We will get in touch soon."
+  utter_default:
+  - text: "sorry, could u please rephrase that..."
+  utter_message:
+  - text: "successful actions connection!"
+

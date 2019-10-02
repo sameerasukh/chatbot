@@ -1,0 +1,9 @@
+{
+  "id": "09a312d4-ccf6-4593-a3e0-5d35e6c9faa1",
+  "name": "type_treatment",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

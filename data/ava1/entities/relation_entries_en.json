@@ -1,0 +1,107 @@
+[
+  {
+    "value": "aunt",
+    "synonyms": [
+      "aunt",
+      "aunty"
+    ]
+  },
+  {
+    "value": "brother",
+    "synonyms": [
+      "brohter",
+      "brother",
+      "brothre"
+    ]
+  },
+  {
+    "value": "cousin",
+    "synonyms": [
+      "cousin",
+      "cousni",
+      "cuosin"
+    ]
+  },
+  {
+    "value": "daughter",
+    "synonyms": [
+      "daughter",
+      "dauhgter"
+    ]
+  },
+  {
+    "value": "father",
+    "synonyms": [
+      "dad",
+      "dad\u0027s",
+      "fahter",
+      "father",
+      "father\u0027s",
+      "fathre"
+    ]
+  },
+  {
+    "value": "friend",
+    "synonyms": [
+      "freind",
+      "friend",
+      "friend\u0027s"
+    ]
+  },
+  {
+    "value": "husband",
+    "synonyms": [
+      "husband"
+    ]
+  },
+  {
+    "value": "mother",
+    "synonyms": [
+      "maa",
+      "mohter",
+      "mom",
+      "mom\u0027s",
+      "mother",
+      "mother\u0027s",
+      "mothre"
+    ]
+  },
+  {
+    "value": "neice",
+    "synonyms": [
+      "neice",
+      "niece"
+    ]
+  },
+  {
+    "value": "nephew",
+    "synonyms": [
+      "nephew"
+    ]
+  },
+  {
+    "value": "sister",
+    "synonyms": [
+      "sister"
+    ]
+  },
+  {
+    "value": "son",
+    "synonyms": [
+      "son"
+    ]
+  },
+  {
+    "value": "uncle",
+    "synonyms": [
+      "uncel",
+      "uncle"
+    ]
+  },
+  {
+    "value": "wife",
+    "synonyms": [
+      "wife"
+    ]
+  }
+]
